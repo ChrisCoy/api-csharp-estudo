@@ -1,0 +1,14 @@
+D:\projetos\gow\aprendendo\Api\Infra\bin\Debug\net8.0\Infra.deps.json
+D:\projetos\gow\aprendendo\Api\Infra\bin\Debug\net8.0\Infra.runtimeconfig.json
+D:\projetos\gow\aprendendo\Api\Infra\bin\Debug\net8.0\Infra.dll
+D:\projetos\gow\aprendendo\Api\Infra\bin\Debug\net8.0\Infra.pdb
+D:\projetos\gow\aprendendo\Api\Infra\obj\Debug\net8.0\Infra.csproj.AssemblyReference.cache
+D:\projetos\gow\aprendendo\Api\Infra\obj\Debug\net8.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\gow\aprendendo\Api\Infra\obj\Debug\net8.0\Infra.AssemblyInfoInputs.cache
+D:\projetos\gow\aprendendo\Api\Infra\obj\Debug\net8.0\Infra.AssemblyInfo.cs
+D:\projetos\gow\aprendendo\Api\Infra\obj\Debug\net8.0\Infra.csproj.CoreCompileInputs.cache
+D:\projetos\gow\aprendendo\Api\Infra\obj\Debug\net8.0\Infra.dll
+D:\projetos\gow\aprendendo\Api\Infra\obj\Debug\net8.0\refint\Infra.dll
+D:\projetos\gow\aprendendo\Api\Infra\obj\Debug\net8.0\Infra.pdb
+D:\projetos\gow\aprendendo\Api\Infra\obj\Debug\net8.0\Infra.genruntimeconfig.cache
+D:\projetos\gow\aprendendo\Api\Infra\obj\Debug\net8.0\ref\Infra.dll
